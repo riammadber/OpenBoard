@@ -22,9 +22,6 @@ OpenBoard is an open-source cross-platform interactive white board application d
 ### Community-driven packages
 On Linux, Debian is the only officially maintained platform. For other platforms, you can thank the awesome community of OpenBoard that provides community-driven packages on a number of other distributions. Check on [this page](https://github.com/OpenBoard-org/OpenBoard/wiki/Downloads) to see if you find what you're looking for. If you actually want to provide support and to be referenced on this page, please open an issue with the relevant information, and we'll be glad to add your contribution.
 
-![1779441632362](image/README/1779441632362.png)
-![1779441637460](image/README/1779441637460.png)
-
 ### Building from source
 If you didn't find any installer for your platform, or if you want to modify OpenBoard, you can find instructions on how to build OpenBoard from source on the [wiki](https://github.com/OpenBoard-org/OpenBoard/wiki/Build-OpenBoard-from-source).
 
